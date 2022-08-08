@@ -1,0 +1,14 @@
+{
+  "name": "Coolvideo",
+  "description": "A Telegram bot which generates your intro video programmatically 📽️",
+  "repository": "https://github.com/tuhinpal/coolvideo",
+  "logo": "https://firebasestorage.googleapis.com/v0/b/cdn-tuhin.appspot.com/o/1659944477s22n?alt=media&token=46c01465-34b7-4532-9a63-332333712b11",
+  "keywords": ["coolvideo", "remotion", "react", "telegram"],
+  "stack": "container",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token. Get it from @BotFather",
+      "value": ""
+    }
+  }
+}

@@ -23,7 +23,7 @@
 
 ## Credits 🙏
 
-This project uses [remotion](https://remotion.github.io) to generate videos programatically with react.
+This project uses [remotion](https://remotion.dev) to generate videos programatically with react.
 
 ## License 🎯
 

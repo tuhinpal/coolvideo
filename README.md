@@ -8,7 +8,7 @@
 
 ## Installation 📦
 
-- Installation is pretty easy, click the button below to get started with Heroku.
+- Installation is pretty easy, click the button below to get started with Heroku (Set a cron job so it always runs).
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tuhinpal/coolvideo/tree/master)
 

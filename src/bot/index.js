@@ -189,6 +189,11 @@ bot.launch().then(() => {
 // process.once("SIGTERM", () => bot.stop("SIGTERM"));
 
 // launch dummy server to keep app alive
+
+app.get("/", (req, res) =>
+  res.redirect(307, "https://github.com/tuhinpal/coolvideo")
+);
+
 app.listen(process.env.PORT || 8080, () => {
   console.log("Server is running");
 });

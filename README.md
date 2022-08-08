@@ -1,5 +1,4 @@
-![CoolVideo](https://user-images.githubusercontent.com/51857187/183368417-97e7e128-1ed2-4ecc-86b9-a5d01bd0bf47.png)
-
+![image](https://user-images.githubusercontent.com/51857187/183368713-9421ec6e-bc27-4f6d-900b-dd8837540293.png)
 
 ## Features 🪶
 

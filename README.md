@@ -1,6 +1,5 @@
-# Coolvideo 🚀
+![CoolVideo](https://user-images.githubusercontent.com/51857187/183368417-97e7e128-1ed2-4ecc-86b9-a5d01bd0bf47.png)
 
-A Telegram bot which generates your intro video programmatically 📽️
 
 ## Features 🪶
 
